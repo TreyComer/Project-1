@@ -1,0 +1,250 @@
+{
+  "passages": [
+    {
+      "text": "You're awakened by the sounds of distant car alarms and crackling of flames... you're upside down being held up by your car seat belt. \"Ugh where am I.. ? Did I really crash another one, god dad is gonna kill me\" you think to yourself as the pounding headache from the crash and drinking are starting to set in again. As you continue to look at your surroundings you can tell your car is done for. It doesn't seem like there is anyone in the area and your seemingly all alone\n\nWhat do you do next?\n\n[[Shout for help -> silence]]\n\n[[Try to remove the seat belt -> Outside the car]]\n",
+      "links": [
+        {
+          "name": "Shout for help ",
+          "link": " silence",
+          "pid": "2"
+        },
+        {
+          "name": "Try to remove the seat belt ",
+          "link": " Outside the car",
+          "pid": "3"
+        }
+      ],
+      "name": "The Car",
+      "pid": "1",
+      "position": {
+        "x": "405",
+        "y": "171"
+      }
+    },
+    {
+      "text": "As you attempt to raise your voice and shout for help you feel an instant burst of pain in your chest and lower side. Upon inspecting the areas the pain was coming from you can notice a reasonibly large cut below your ribs. Despite the pain you continue to shout for help but it doesn't seem as though anyone is around until...a faint almost unnoticable scrapping and shuffling sound can be heard in the distance\n\n[[shout again -> encounter]]",
+      "links": [
+        {
+          "name": "shout again ",
+          "link": " encounter",
+          "pid": "5"
+        }
+      ],
+      "name": " silence",
+      "pid": "2",
+      "position": {
+        "x": "212",
+        "y": "53"
+      }
+    },
+    {
+      "text": "After a few minutes of catching your breath you look around for your phone to call for help. After scanning the interior of the car you can tell your phone isn't anywhere in sight. Taking a moment to prepare yourself for the impending fall you finally unbuckle your seat belt which is meet with a heafty thud as you hit the roof of your car. You slowly crawle over the shattered glass out from the front windowsheild. As you rise from the ground you get a sharp pain in your side. A decently sized cut is placed right under your right ribcage. You see from where your car came off the road from...through highway barricades down into a ditch.\n\n\"God what happened?\" you think to yourself\n\n[[Climb up the hill onto the Highway-> The Highway]]",
+      "links": [
+        {
+          "name": "Climb up the hill onto the Highway",
+          "link": " The Highway",
+          "pid": "4"
+        }
+      ],
+      "name": " Outside the car",
+      "pid": "3",
+      "position": {
+        "x": "508",
+        "y": "308"
+      }
+    },
+    {
+      "text": "Upon reaching the top of the hill you can see that something is horribly wrong. Cars by the dozen have been left abandoned or totalled in the street to your left and over the tree line heading back towards downtown you can see the faint yellow glow of flames. In either direction of the highway there's no one insight and there is only a faint amount of light from car headlights and street lights\n\n[[Go left -> Encounter 2]]\n\n[[Go right ->Screams]] \n",
+      "links": [
+        {
+          "name": "Go left ",
+          "link": " Encounter 2",
+          "pid": "6"
+        },
+        {
+          "name": "Go right ",
+          "link": "Screams",
+          "pid": "9"
+        }
+      ],
+      "name": " The Highway",
+      "pid": "4",
+      "position": {
+        "x": "650",
+        "y": "189"
+      }
+    },
+    {
+      "text": "After finally letting out the loudest shout you can you recoil from the intense shock of pain you can hear the noises approaching you but at an incredibly slow pace until finally you hear what sounds like someone rolling down a hill...as they reach they bottom the body rolls infront of the car in perfect view of the car headlights. You can see that this...this thing...it isn't human or at least not anymore, he's missing a good portion of his lower leg down to the point you can see his femur through the holes and tears in his pants. As the head slowly turns to you you are overrun by fear as you see his jaw is unhinged and the right hand side of face has been nearly melted off...as he slowly approaches you, you know you have to leave know or else everything is over...\n\n[[RUN -> The Forest]]",
+      "links": [
+        {
+          "name": "RUN ",
+          "link": " The Forest",
+          "pid": "16"
+        }
+      ],
+      "name": " encounter",
+      "pid": "5",
+      "position": {
+        "x": "212",
+        "y": "202"
+      }
+    },
+    {
+      "text": "As you begin heading down the highway it doesnt take long for you to spot what you believed was a person under one of the street lights but...upon closer inspection you realize that this thing isn't human anymore. As you stop to observe the slinder man you can see that he is missing a fair portion of his leg to the point you can see his femur through the holes and tears in his pants. Being unable to continue forward you start looking around for alternative routes and as your eyes adjust to the darkness you can tell that the slinder man is not alone. A few others stand alone in the dark all around you...you've got no where to go...what do you do now..?\n\n[[BANG -> A chance]]",
+      "links": [
+        {
+          "name": "BANG ",
+          "link": " A chance",
+          "pid": "14"
+        }
+      ],
+      "name": " Encounter 2",
+      "pid": "6",
+      "position": {
+        "x": "659",
+        "y": "345"
+      }
+    },
+    {
+      "text": "As you move down the highway towards the screams you can see around the corner of the treeline a faint glow of light. Finally in view you see a small local gastation...the windows stained with blood. A single car is parked at the pumps with a man and women sitting in the front seats...you can see them fumbling about in a panic and can hear the car trying but unable to start. Suddenly before you've even gotten a chance to move another women appears, the cashier of the gas station, in the doorway of the gas station except...she's...different. Her body snaps back and for twisting and turning in ways you know isn't normal. She instantly sprints towards the car throwing herself into the back window straight into the back of the car which is followed with a spray of blood. As you finally start to head over the man and woman quickly jump out of their car and are quickly followed by the cashier. \n\nThe man shouts at the cashier to stay back sheilding the much smaller woman behind him. Completly unresponsive the cashier continous and lunches at the man but is quickly sent thundering back to the ground as you are easily able to recognize the sound of bone hitting bone. The man almost unhuman himself stands nearly twice...no maybe even thrice the size of you. You think that surely the much smaller cashier was knocked completely unconscious maybe even killed but, almost like a puppet, she instantly lifts herself back up and onto her feet dripping blood from her head. During this time you can hear behind you what sounds like footsteps but unable to focus on that you quickly push it aside and move to asist the man and women\n\nBefore you can get any closer your halted by again by a sharp over bearing pain in your torso...the metal shard still stuck in your lower stomach. You decide that if you're gonna be of any use you have to remove the shard. Bracing yourself for the incoming pain you start to pull the on the shard instantly causing you to shout in pain and agony but, you continue. Finally removing the shard you take a piece of your shirt you tore off an wrap it around the bottem of the shard.\n\n[[Enter the Fight -> Fight 2]]",
+      "links": [
+        {
+          "name": "Enter the Fight ",
+          "link": " Fight 2",
+          "pid": "13"
+        }
+      ],
+      "name": " Encounter 3",
+      "pid": "7",
+      "position": {
+        "x": "677",
+        "y": "7"
+      }
+    },
+    {
+      "text": "Deciding that whatever's going on ahead is not something you wanna get involved with you decide to return back to your car to try and locate your phone or see if there is anyone to help you going the other direction. Shortly after turning around you can see the dark outlines of a group of abount three to four people. One is leading the group moving signifigcantly faster then the rest and the others are moving oftely slow limping behind and taking long and slow strides fumbling about.\n\n[[Call out to the group -> Contact]]",
+      "links": [
+        {
+          "name": "Call out to the group ",
+          "link": " Contact",
+          "pid": "10"
+        }
+      ],
+      "name": " Encounter 4",
+      "pid": "8",
+      "position": {
+        "x": "901",
+        "y": "242"
+      }
+    },
+    {
+      "text": "As you move down the highway away from the cluster of cars into the darkness away from the street you continue to wonder where you are and what is even going on. Before you get a chance to finally collect your thoughts your attention is caught by the sounds of screams for help and groans. What do you do?\n\n[[Follow the Screams -> Encounter 3]]\n\n[[Turn back around -> Encounter 4]]",
+      "links": [
+        {
+          "name": "Follow the Screams ",
+          "link": " Encounter 3",
+          "pid": "7"
+        },
+        {
+          "name": "Turn back around ",
+          "link": " Encounter 4",
+          "pid": "8"
+        }
+      ],
+      "name": "Screams",
+      "pid": "9",
+      "position": {
+        "x": "814",
+        "y": "119"
+      }
+    },
+    {
+      "text": "After shouting out to the group they all in unison stop and stare into your direction perfectly despite the lack of light sending a chill down your spine. Without a moment to waste the leader of the pack lets out a shreak like you've never heard before and dashes towards you even faster than before\n\n[[RUN -> Scene]]\n\n[[FIGHT -> FIGHT]]",
+      "links": [
+        {
+          "name": "RUN ",
+          "link": " Scene",
+          "pid": "11"
+        },
+        {
+          "name": "FIGHT ",
+          "link": " FIGHT",
+          "pid": "12"
+        }
+      ],
+      "name": " Contact",
+      "pid": "10",
+      "position": {
+        "x": "798",
+        "y": "511"
+      }
+    },
+    {
+      "text": "As you turn to make a run for it a sharp pain halts you in your tracks...the shard of metal sticking out of your torse stings worse now than ever but you know you have to get moving or else...it's all over. Limping as fast as you can down the street you see around the corner of the treelines a faint glow of light. Rounding the corner with the mans footsteps hot on your trail you see a scene that makes you want to throw up. A man twice...maybe even thrice the size of you is knelt down ripping into what looks like another human but there is so little left its hard to tell. Hearing the steps and screams the man slowly rises and turns facing you...his eye hangs out of socket and he has gashes and scratches all over his body. By just a glance you know this guy could easily broke every bone in your body without even trying and with the steps of the runner behind you closer than they ever were before and as you begin to feel faint from the blood you've lost you know...its over.\n\nThe runner from behind pounces on you slamming you into the ground and takes a large hard bite into the upper part of your neck...as you lose consciousness you remember your mother who was waiting for you to return from your night out with friends....\n\nGAME OVER",
+      "name": " Scene",
+      "pid": "11",
+      "position": {
+        "x": "720",
+        "y": "661"
+      }
+    },
+    {
+      "text": "Shouting towards the man to stop and to stay where he's at you quickly realize he has no intentions to comply with any of your request. You ready yourself for a fight but are reminded of the sharp pain inside your torso. That shard piece of metal that so easily cut through you so easily...you know what must be done. Swiftly preparing yourself for the pain you're about to endure you rip the shard of metal from your torso and wrap a piece of cloth you got from ripping your shirt around the bottem and stand ready for the man approaching you.\n\nAs he finally reaches you he instantly leaps higher and futher than any man you've seen before...he easily knocks you down with your weakened and aching body. As he opens his mouth...Saliva dripping down to your face...you take the makeshift shiv and shove it into his mouth, the man seemingly not feeling any pain, shoves his face back into it...slicing directly through his jaw leaving it hanging wide open. The man continous to go after you despite this drastice injury confirming what you had feared...this man was already dead \n\nAs you flip him off from you with the threat of his bite no longer there you pound away endlessly at his head with the shiv till his shouts stop and he's no longer moving. With cuts all over your hands and feeling extremely weak and faint from the loss of blood you let out a sigh of relief...you did it.\n\nOr so you thought, you feel the cold emotionless hands wrap all around you as the group that was slowly following the leader has now caught up...unable to do anything against the group the pull you down and begin to tear into you without remorse. The pain is over bearing and in your final moments you remember...your mother...she was waiting for you to make it home that night\n\nGAME OVER",
+      "name": " FIGHT",
+      "pid": "12",
+      "position": {
+        "x": "872",
+        "y": "661"
+      }
+    },
+    {
+      "text": "Looking back in the direction of the station you can see that the man is now out number with two more men stumbling slowly out from the station one limping and the other barely able to drag himself across the ground but has definitly \"finished\" the cashier as you see what was once her head splattered on the pavement. As you advance forward the woman hears you and shouts out in fear towards the man protecting her. He swiftly rotates in your direction where you can tell he's starting to get tired. You reasure them that you're here to help and that we've got bigger things to worry about. Able to win the trust of the two for the time being you and the man team together to easily subdue the two weakend men.\n\nBefore you get the chance to intoduce yourselfs...your body grows tired and limp before you suddenly hit the ground like a bag of bricks. You can hear distant shouts and feel yourself being lifted up and moved. Before you pass out you see the top of the car that is no covered in blood and feel yourself jolt around bumps before quickly speeding off...TO BE CONTINUED\n\nCONGRATS YOU WON",
+      "name": " Fight 2",
+      "pid": "13",
+      "position": {
+        "x": "537",
+        "y": "0"
+      }
+    },
+    {
+      "text": "Before you even get the chance to come up with a plan you hear what sounds like someone knocking on a window. As you and the other \"things\" standing around you look at your surroundings you spot a man trapped between a tree and other car. He's starring directly at you banging on his window motioning for you to come closer. You don't even have a chance to move or respond before one of those things comes sprinting to the car slamming into the door pounding away at the glass. The first is quickly followed up by the rest as the begin to swarm the car...this is your chance\n\n[[Sneak away -> escape]]",
+      "links": [
+        {
+          "name": "Sneak away ",
+          "link": " escape",
+          "pid": "15"
+        }
+      ],
+      "name": " A chance",
+      "pid": "14",
+      "position": {
+        "x": "660",
+        "y": "495"
+      }
+    },
+    {
+      "text": "As you carefully move past the group pounding away at the car further along the highway you're stopped by a single car parked on the side of the street. Their blinkers are flashing and the door is wide open with a long trail of blood leaving it and into the nearby treeline. You can hear the engine of the car is still running and looks vacant. Upon reaching the vehichle you can see it is completely empty but the front windowsheild is covered in blood. Using your sleeve you wipe away enough blood to be able to see and begin to leave.\n\nFinally having a calm moment you're able to regain your thoughts and remember what's happening, you live in a small town deep in the center of Oklahoma. The town doesn't attract to many people and is often just a lot of locals whos families have been there for generations. You were coming home after a parade hosted by the town where you went with a group of close friends but decided to leave early due to the sudden and strange worries of your mother. Snapping back to reality you turn off the highway into the street leading to your home. Once you reach your house that is quite secluded but tiny and cozy for you and your mother you can't help but get a sick unsettling feeling in your stomach.\n\nAs you exit the car and approach your home you knock on the door... no answer...you give it another knock...still no answer. Thinking the worse you start to leave the front porch to try the back door when you suddenly hear the sounds of the door unlocking. Your small and frail mother slowly peaks her head around the corner...tears quickly filling her eyes as she quickly embraces you and rushes you inside...\n\nCONGRATES YOU WIN",
+      "name": " escape",
+      "pid": "15",
+      "position": {
+        "x": "487",
+        "y": "609"
+      }
+    },
+    {
+      "text": "As you fumble to remove your seatbelt due to the shock and stun of the man no...\"thing\" in front of you, you finally unbuckle the seatbelt and crash to the top of the car with a solid and heavy thud. Quickly scrambling out of the car cutting yourself with glass and various other parts you rise from the ground outside the car. You can easily make out various other figures approaching from atop the hill..leaving you with only one escape route...into the forest behind you.\n\nAs you move as quickly as possible into the tree line you stumble and struggle to make your way through the rough and heavy foliage falling often but instantly rising back up and moving deeper into the forest. Finally after the rustling behind you grows quiter and quiter to silent you stop to catch your breath as the searing pain from your ingury to your torso grows worse and more painful. Knowing you have to get out and back to the road you begin to head in the direction you believe is along side the road hoping to cut across or regain sight of the street but...the longer you walk the darker it gets.\n\nYou realize your worst fear is true...your lost. Slowly slipping into a panic you continue to wander around aimlessly growing slower and more frantic as times goes by due to amount of blood loss till you finally collapse to the ground. Staring up into the night sky you see the stars and begin to slowly close your eyes...you remember your mother and how she's waiting for you to arrive at home...\n\nGAME OVER",
+      "name": " The Forest",
+      "pid": "16",
+      "position": {
+        "x": "212",
+        "y": "352"
+      }
+    }
+  ],
+  "name": "The road",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.3.9",
+  "ifid": "34D8CFA8-A5E3-4990-A27D-C10963D24C74"
+}
